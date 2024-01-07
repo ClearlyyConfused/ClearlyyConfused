@@ -14,14 +14,14 @@ I'm Louis, a passionate and motivated student learning fullstack web development
 
 - [Premier Ease](https://github.com/ClearlyyConfused/PremierEase)
 
-  - ![App Screenshot](./images/Screenshot%202023-07-28%20152656.png)
+  - ![App Screenshot](./images/premier-ease.png)
 
 - [McMaster Housing Clone](https://github.com/ClearlyyConfused/mcmaster-housing-clone)
 
-  - ![App Screenshot](./images/Screenshot%202023-07-28%20152749.png)
+  - ![App Screenshot](./images/offcampus-mcmaster.png)
 
 - [Etch-a-Sketch](https://github.com/ClearlyyConfused/Etch-a-Sketch)
-  - ![App Screenshot](./images/Screenshot%202023-07-28%20153950.png)
+  - ![App Screenshot](./images/etch-a-sketch.png)
 
 ## 🛠 Skills
 
