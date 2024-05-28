@@ -2,7 +2,9 @@
 
 ## 🚀 About Me
 
-I'm Louis, a passionate and motivated student learning fullstack web development. Since being introduced to programming in grade 6, my unwavering interest in the field continued and I eventually narrowed it down to webdev being the field I wanted to enter. Currently a 3rd year computer science student at McMaster university, I'm constantly being introduced to new ideas and overcoming challenging problems related to the field.
+I'm Louis, a passionate and hard-working student hoping to enter the tech field. Growing up as the youngest in the family, it was often up to me to deal with all the technical difficulties around the house. My first exposure to actual programming was in grade 6 when we had to create a game using the language "Scratch" for an assignment. My favorite part was getting that feeling of solving a difficult problem and showing off what I created to the class. Ever since then, I knew this was the career I wanted to pursue.
+
+Currently a 4th year computer science student at McMaster university, I'm constantly being introduced to new ideas and overcoming challenging problems. I think my greatest strength is my hard-working nature and willingness to learn!
 
 ## 🔗 Links
 
