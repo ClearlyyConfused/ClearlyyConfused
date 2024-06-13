@@ -22,8 +22,8 @@ Currently a 4th year computer science student at McMaster university, I'm consta
 
   - ![App Screenshot](./images/offcampus-mcmaster.png)
 
-- [Etch-a-Sketch](https://github.com/ClearlyyConfused/Etch-a-Sketch)
-  - ![App Screenshot](./images/etch-a-sketch.png)
+- [BlabberBox](https://github.com/louisdoan9/blabberbox-frontend)
+  - ![App Screenshot](./images/blabberbox.png)
 
 ## 🛠 Skills
 
